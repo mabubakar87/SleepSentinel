@@ -1,0 +1,4 @@
+psutil==7.0.0
+pynput==1.8.0
+ttkbootstrap==1.10.1
+Pillow==11.1.0
